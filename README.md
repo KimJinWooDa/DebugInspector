@@ -1,9 +1,9 @@
 # DebugInspector
 
 # Overview
-DebugInspector는 스크립트 내 디버그 문 관리를 간소화하고 개선하기 위해 설계된 필수 Unity 에디터 툴입니다. 
+DebugInspector는 스크립트의 Debug 관리를 편리하게 수정하기 위해 고안된 Util Tool입니다. 
 
-DebugInspector를 사용하면 Unity 에디터 내에서 모든 디버그 문을 쉽게 검사, 편집, 관리할 수 있으므로 개별 스크립트를 탐색할 필요가 없습니다.
+DebugInspector를 사용하면 모든 Debug 문을 검사, 편집, 관리할 수 있으므로 개별 스크립트를 탐색할 필요가 없습니다.
 
 # Why DebugInspector?
 - 중앙 집중식 관리: 디버그 문을 보거나 수정하기 위해 여러 스크립트를 열 필요가 없습니다. 한 곳에서 모든 디버그를 한눈에 파악할 수 있습니다.
